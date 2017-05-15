@@ -1,3 +1,4 @@
+![alt text](https://www.esportsindia.in/img/esportslogo.png "Esports India")
 # Welcome to Esports India Hub
 
 This repository is created to keep a track of Bugs/Issues in the application and fix them as soon as possible!
